@@ -3,7 +3,7 @@
 
 🎓 Compsci student at National University of Science and Technology POLITEHNICA Bucharest, Romania 
 <br>
-🌱 Current project: Pokemon Team Generator (React, Typescript, NodeJS, PostgreSQL)
+🌱 Current projects: Pokemon Team Generator (React, Typescript, NodeJS, PostgreSQL); Vista - booking copy (Java Spring Boot, PostgreSQL)
 <br>
 
 ## 💻 Tech Stack:
